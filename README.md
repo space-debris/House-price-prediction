@@ -1,4 +1,13 @@
-# MultipleLinearRegression
+# House Price Prediction
 
-A simple Jupyter notebook, which contains implementation of multiple linear regression on a randomly generated dataset which contains house prices according to the location, house type, number of bedrooms, number of bathrooms.
-The code also compares the test and predicted values of price.
+## About Project
+House Price Prediction - is a program which predicts prices of house based on several factors like loction, number of bedrooms, year built etc using Multiple Linear Regression machine learning model.
+
+## Dependencies
+Python 3.11.4, Google colab/ Jupyter Notebook
+
+## Libraries used
+Numpy, Pandas, Scikit-learn
+
+## Authors
+@space-debris
